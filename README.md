@@ -10,3 +10,6 @@ sudo dpkg -s linux-modules-extra-$(uname -r)
 ```
 sudo dpkg -i linux*.deb
 ```
+https://askubuntu.com/questions/1312096/wired-network-settings-missing-in-ubuntu-desktop-20-10
+
+https://www.realtek.com/en/component/zoo/category/network-interface-controllers-10-100-1000m-gigabit-ethernet-pci-express-software
